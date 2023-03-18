@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Asherflo
-- 👀 I’m interested in java,python,kotlin,react
-- 🌱 I’m currently learning Typescript, Nestjs and Go
+- 👀 I’m interested in java,python,Javascript,react
+- 🌱 I’m currently learning node js,Typescript
 - 💞️ I’m looking to collaborate on springboot projects,open source and Hackathon
 - 📫 How to reach me aniyikayetemitopeflorence@gmail.com,
 - https://www.linkedin.com/in/temitope-aniyikaye,
